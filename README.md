@@ -1,3 +1,3 @@
-# android_conversor_moedas
+# Conversor de Moedas
 
-testeeeeee
+Aplicativo criado para conhecer melhor a estrutura de app mobile Android. 
